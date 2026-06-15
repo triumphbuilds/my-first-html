@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tom's First Page</title>
+  </head>
+  <body>
+    <h1>Hello, I'm Tom</h1>
+    <p>I am learning web development. This is my very first HTML page.</p>
+    <p>I am a student in Nigeria studying environmental science
+       and building digital skills on the side.</p>
+  </body>
+</html>
